@@ -1,5 +1,5 @@
-a = int(input())
-# a = 5   # для теста
+# a = int(input())
+a = 5   # для теста
 
 # крылечко
 for i in range(a + 1):
