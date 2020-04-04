@@ -6,16 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 1-2/09_Practice1-2 (domashnie risovashki).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 1-2/Practice1-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 1-2/hometask1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 1-2/hometask2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 1-2/hometask3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 1-2/hometask4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 1-2/hometask5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 4/02_practice4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 4/03_practice4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice 4/04_practice4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4/05_practice4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice4/05_practice4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,14 +184,29 @@
       <option name="project" value="LOCAL" />
       <updated>1585846842791</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Rename directories (delete spaces)">
+      <created>1586036005723</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586036005723</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Rename directories (delete spaces)">
+      <created>1586036028199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586036028199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Навел порядок&#10;Сделал домашние задания из Практики 4 (слайд 2 и 3)" />
     <MESSAGE value="Homework 04_practice4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 04_practice4" />
+    <MESSAGE value="Rename directories (delete spaces)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename directories (delete spaces)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
@@ -211,30 +217,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586035925369" />
-    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1586036004603">
+    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1586036027283">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586036004603" />
+    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586036027283" />
     <state x="1185" y="322" key="FileChooserDialogImpl" timestamp="1585752822343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1185" y="322" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585752822343" />
-    <state width="877" height="1245" key="GridCell.Tab.0.bottom" timestamp="1586035199970">
+    <state width="877" height="823" key="GridCell.Tab.0.bottom" timestamp="1586038655380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="877" height="1245" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586035199970" />
-    <state width="877" height="1245" key="GridCell.Tab.0.center" timestamp="1586035199970">
+    <state width="877" height="823" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586038655380" />
+    <state width="877" height="823" key="GridCell.Tab.0.center" timestamp="1586038655380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="877" height="1245" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586035199970" />
-    <state width="877" height="1245" key="GridCell.Tab.0.left" timestamp="1586035199970">
+    <state width="877" height="823" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586038655380" />
+    <state width="877" height="823" key="GridCell.Tab.0.left" timestamp="1586038655378">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="877" height="1245" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586035199968" />
-    <state width="877" height="1245" key="GridCell.Tab.0.right" timestamp="1586035199970">
+    <state width="877" height="823" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586038655378" />
+    <state width="877" height="823" key="GridCell.Tab.0.right" timestamp="1586038655380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="877" height="1245" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586035199970" />
+    <state width="877" height="823" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586038655380" />
     <state width="2505" height="474" key="GridCell.Tab.1.bottom" timestamp="1585864128922">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
