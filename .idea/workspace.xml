@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Checkio/O'Reilly/Goes_after.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Checkio/O'Reilly/Sum_by_type.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,28 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Goes_after">
-    <configuration name="06_practice4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice4/06_practice4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Sum_by_type">
     <configuration name="For_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Sum_by_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Checkio/O'Reilly" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checkio/O'Reilly/Sum_by_type.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sum_by_type" />
         <item itemvalue="Python.Goes_after" />
         <item itemvalue="Python.Remove_accents" />
         <item itemvalue="Python.For_tests" />
         <item itemvalue="Python.Striped_words" />
-        <item itemvalue="Python.06_practice4" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586176992163</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Сheckio - O'Reilly - Goes_after.py">
+      <created>1586178456144</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586178456144</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,7 +245,8 @@
     <MESSAGE value="Homework 06_practice4.py" />
     <MESSAGE value="Сheckio - O'Reilly - striped words" />
     <MESSAGE value="Сheckio - O'Reilly - Remove_accents.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сheckio - O'Reilly - Remove_accents.py" />
+    <MESSAGE value="Сheckio - O'Reilly - Goes_after.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сheckio - O'Reilly - Goes_after.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
@@ -249,30 +257,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586035925369" />
-    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1586176991514">
+    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1586178455520">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586176991514" />
+    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586178455520" />
     <state x="1185" y="322" key="FileChooserDialogImpl" timestamp="1585752822343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1185" y="322" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585752822343" />
-    <state width="822" height="736" key="GridCell.Tab.0.bottom" timestamp="1586178402745">
+    <state width="822" height="736" key="GridCell.Tab.0.bottom" timestamp="1586178764665">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="822" height="736" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586178402745" />
-    <state width="822" height="736" key="GridCell.Tab.0.center" timestamp="1586178402745">
+    <state width="822" height="736" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586178764665" />
+    <state width="822" height="736" key="GridCell.Tab.0.center" timestamp="1586178764665">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="822" height="736" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586178402745" />
-    <state width="822" height="736" key="GridCell.Tab.0.left" timestamp="1586178402745">
+    <state width="822" height="736" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586178764665" />
+    <state width="822" height="736" key="GridCell.Tab.0.left" timestamp="1586178764664">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="822" height="736" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586178402745" />
-    <state width="822" height="736" key="GridCell.Tab.0.right" timestamp="1586178402745">
+    <state width="822" height="736" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586178764664" />
+    <state width="822" height="736" key="GridCell.Tab.0.right" timestamp="1586178764665">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="822" height="736" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586178402745" />
+    <state width="822" height="736" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586178764665" />
     <state width="2505" height="474" key="GridCell.Tab.1.bottom" timestamp="1586178171963">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -301,16 +309,5 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1586035564793" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Checkio/O'Reilly/Goes_after.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
