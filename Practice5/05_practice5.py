@@ -23,12 +23,13 @@ for i in sum_arr:
     midle += i
 midle = midle / len(sum_arr)
 print(midle)
+print(np.mean(sum_arr))
 
 
 # 5
-midle1 = sum(array1) / len(array1)
+midle1 = np.mean(array1)
 print(midle1)
-midle2 = sum(array2) / len(array2)
+midle2 = np.mean(array2)
 print(midle2)
 print(midle > midle1)
 print(midle > midle2)
