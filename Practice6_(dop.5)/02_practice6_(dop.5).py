@@ -57,9 +57,9 @@ print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 
 
 # 5
-def hypothec_005(credit, percent, years):
-    payment = credit * percent / 1200 / (1 - (1 + percent / 1200) ** (-years * 12))
-    return payment
-
-
-print(hypothec_005(20000000, 12, 0.5))
+# def hypothec_005(credit, percent, years):
+#     payment = credit * percent / 1200 / (1 - (1 + percent / 1200) ** (-years * 12))
+#     return payment
+#
+#
+# print(hypothec_005(20000000, 12, 0.5))
