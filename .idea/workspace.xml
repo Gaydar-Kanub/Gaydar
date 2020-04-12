@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/222.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice6/02_practice6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice6_(dop.5)/02_practice6_(dop.5).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/For_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/For_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice6_(dop.5)/03_practice6_(dop.5).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice6_(dop.5)/02_practice6_(dop.5).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice6_(dop.5)/02_practice6_(dop.5).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586545985530</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Homework - Practice6_(dop.5) - 02 slide">
+      <created>1586689800586</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1586689800586</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -317,7 +320,8 @@
     <MESSAGE value="Homework - Practice5 - 06 slide" />
     <MESSAGE value="Homework - Practice5 - 05 slide (some corrections)" />
     <MESSAGE value="Homework - Practice5 - 07 slide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework - Practice5 - 07 slide" />
+    <MESSAGE value="Homework - Practice6_(dop.5) - 02 slide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework - Practice6_(dop.5) - 02 slide" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
@@ -328,10 +332,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586035925369" />
-    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1586545984836">
+    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1586689799786">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586545984836" />
+    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1586689799786" />
     <state x="1185" y="322" key="FileChooserDialogImpl" timestamp="1585752822343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

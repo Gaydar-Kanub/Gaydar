@@ -43,7 +43,7 @@ print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 
 
 # 4
-# def tab_ascii(num):
+# def tab_ascii_004(num):
 #     for i in range(0, num, 10):
 #         line = ''
 #         for j in range(0, 10):
@@ -52,14 +52,14 @@ print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 #     return ''
 #
 #
-# print(tab_ascii(2500))
+# print(tab_ascii_004(2500))
 print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 
 
 # 5
-def hypothec(credit, percent, years):
+def hypothec_005(credit, percent, years):
     payment = credit * percent / 1200 / (1 - (1 + percent / 1200) ** (-years * 12))
     return payment
 
 
-print(hypothec(20000000, 12, 0.5))
+print(hypothec_005(20000000, 12, 0.5))
