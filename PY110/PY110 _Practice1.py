@@ -66,13 +66,7 @@ def pipeline_each(x, funcs):
 f = [math.cos, math.sin, math.tan]
 # a = it.count(0.1, 0.01)
 a = 0.5
-print(a)
-b = math.cos(a)
-print(b)
-c = math.sin(b)
-print(c)
-d = math.tan(c)
-print(d)
+print(math.tan(math.sin(math.cos(a))))              # for check
 print('======================')
 print(reduce(lambda x, y: y(x), [a] + f))
 print(pipeline_each(a, f))
