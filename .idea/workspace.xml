@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1111111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PY110/PY110 _Practice1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zachet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadachnik.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/z.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice6_(dop.5)/06_practice6_(dop.5).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice6_(dop.5)/06_practice6_(dop.5).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY110/PY110 _Practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY110/PY110 _Practice1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -341,7 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586716679617</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="PY110 - Practice1">
+      <created>1587219871187</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1587219871187</updated>
+    </task>
+    <task id="LOCAL-00025" summary="PY110 - Practice1">
+      <created>1587220036411</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1587220036411</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -368,7 +375,8 @@
     <MESSAGE value="Homework - Practice6_(dop.5) - 04 slide" />
     <MESSAGE value="Homework - Practice6_(dop.5) - 05 slide" />
     <MESSAGE value="Homework - Practice6_(dop.5) - 06 slide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework - Practice6_(dop.5) - 06 slide" />
+    <MESSAGE value="PY110 - Practice1" />
+    <option name="LAST_COMMIT_MESSAGE" value="PY110 - Practice1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
@@ -379,30 +387,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586877988841" />
-    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1587219869959">
+    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1587220035759">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1587219869959" />
+    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1587220035759" />
     <state x="1185" y="322" key="FileChooserDialogImpl" timestamp="1585752822343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1185" y="322" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585752822343" />
-    <state width="912" height="859" key="GridCell.Tab.0.bottom" timestamp="1587219963687">
+    <state width="912" height="859" key="GridCell.Tab.0.bottom" timestamp="1587367884348">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587219963687" />
-    <state width="912" height="859" key="GridCell.Tab.0.center" timestamp="1587219963686">
+    <state width="912" height="859" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884348" />
+    <state width="912" height="859" key="GridCell.Tab.0.center" timestamp="1587367884347">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587219963686" />
-    <state width="912" height="859" key="GridCell.Tab.0.left" timestamp="1587219963686">
+    <state width="912" height="859" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884347" />
+    <state width="912" height="859" key="GridCell.Tab.0.left" timestamp="1587367884347">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587219963686" />
-    <state width="912" height="859" key="GridCell.Tab.0.right" timestamp="1587219963687">
+    <state width="912" height="859" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884347" />
+    <state width="912" height="859" key="GridCell.Tab.0.right" timestamp="1587367884347">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587219963687" />
+    <state width="912" height="859" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884347" />
     <state width="2505" height="470" key="GridCell.Tab.1.bottom" timestamp="1587219236954">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -427,10 +435,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="711" y="436" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587198558679" />
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1587219262548">
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1587367058380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587219262548" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587367058380" />
     <state x="1282" y="492" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587196376193">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

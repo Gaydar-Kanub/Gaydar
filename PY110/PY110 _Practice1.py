@@ -27,7 +27,7 @@ import itertools as it
 # b = ''.join(s[i] for i in ind)
 # print(b)
 #
-# c = ''.join(filter(lambda x: s.index(x) in ind, s))
+# c = ''.join(filter(lambda x: s.index(x) in ind, s))       # подходит при условии не повторяющихся символов
 # print(c)
 
 # Slide 5 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -37,38 +37,32 @@ import itertools as it
 
 # Slide 6 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 #
-# from functools import reduce
-#
+import math
+from functools import reduce
+
 # items = [1, 24, 17, 14, 9, 32, 2]
 # all_max = reduce(lambda a, b: a if (a > b) else b, items)
-
 # print(all_max)
-# reduce(lambda x, y: x + y, it.count())
-# a = it.count(1, 1)
-# for _ in range(10):
-#     print(next(a))
+
 
 # for_fibonachi = [i for i in range(10)]                # Это так, для себя
 # print(reduce(lambda x, y: x + y, for_fibonachi))
 
-# Slide 7 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-import math
-from functools import reduce
 
 
 def pipeline_each(x, funcs):
-    for i in funcs:
-        x = i(x)
+    for func in funcs:
+        x = func(x)
     return x
 
 
-
 f = [math.cos, math.sin, math.tan]
-# a = it.count(0.1, 0.01)
-a = 0.5
-print(math.tan(math.sin(math.cos(a))))              # for check
-print('======================')
-print(reduce(lambda x, y: y(x), [a] + f))
-print(pipeline_each(a, f))
-# for i in range(50):
-#     print(reduce(lambda x, y: y(x), [next(a)] + f))
+a = it.count(0.1, 0.01)
+# a = 0.5
+for _ in range(5):
+    b = next(a)
+    print(math.tan(math.sin(math.cos(b)))     )         # for check
+    print('======================')
+    print(reduce(lambda x, y: y(x), [b] + f))
+# print(pipeline_each(next(a), f))
+
