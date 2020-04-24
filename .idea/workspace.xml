@@ -5,16 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PY110/222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PY110/for_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PY110/PY110 _Practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY110/PY110 _Practice1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dom-test-practice4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/For_future.py" beforeDir="false" afterPath="$PROJECT_DIR$/For_future.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/08_practice1-2 (composite types).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/09_practice1-2 (domashnie risovashki).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/hometask1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/hometask2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/hometask3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/hometask4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/hometask5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/practice1-2 (dopolnitelnoe zadanie).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice1_2/practice1-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice3/04_practice3_(risovashki).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice3/practice3_(dop. zadanie).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4/02_practice4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4/03_practice4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4/04_practice4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4/05_practice4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice4/06_practice4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice5/02_practice5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice5/03_practice5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice5/04_practice5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice5/05_practice5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice5/06_practice5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice5/07_practice5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice6/02_practice6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice6_(dop.5)/02_practice6_(dop.5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice6_(dop.5)/03_practice6_(dop.5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice6_(dop.5)/04_practice6_(dop.5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice6_(dop.5)/05_practice6_(dop.5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice6_(dop.5)/06_practice6_(dop.5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zachet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Python" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,7 +68,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -46,7 +75,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.PY110 _Practice1">
+  <component name="RunManager" selected="Python.for_tests">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +97,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="110_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/222.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="For_future" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/110_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_future.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Zachet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,32 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zachet.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="z" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/for_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for_tests" />
+        <item itemvalue="Python.222" />
+        <item itemvalue="Python.For_future" />
         <item itemvalue="Python.PY110 _Practice1" />
         <item itemvalue="Python.1" />
-        <item itemvalue="Python.110_1" />
-        <item itemvalue="Python.z" />
-        <item itemvalue="Python.Zachet" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587220036411</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="PY110 - Practice1">
+      <created>1587368105574</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1587368105575</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -387,46 +423,46 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586877988841" />
-    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1587220035759">
+    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1587368104668">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1587220035759" />
+    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1587368104668" />
     <state x="1185" y="322" key="FileChooserDialogImpl" timestamp="1585752822343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1185" y="322" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585752822343" />
-    <state width="912" height="859" key="GridCell.Tab.0.bottom" timestamp="1587367884348">
+    <state width="911" height="738" key="GridCell.Tab.0.bottom" timestamp="1587752422523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884348" />
-    <state width="912" height="859" key="GridCell.Tab.0.center" timestamp="1587367884347">
+    <state width="911" height="738" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587752422523" />
+    <state width="911" height="738" key="GridCell.Tab.0.center" timestamp="1587752422523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884347" />
-    <state width="912" height="859" key="GridCell.Tab.0.left" timestamp="1587367884347">
+    <state width="911" height="738" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587752422523" />
+    <state width="911" height="738" key="GridCell.Tab.0.left" timestamp="1587752422523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884347" />
-    <state width="912" height="859" key="GridCell.Tab.0.right" timestamp="1587367884347">
+    <state width="911" height="738" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587752422523" />
+    <state width="911" height="738" key="GridCell.Tab.0.right" timestamp="1587752422523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="912" height="859" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587367884347" />
-    <state width="2505" height="470" key="GridCell.Tab.1.bottom" timestamp="1587219236954">
+    <state width="911" height="738" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587752422523" />
+    <state width="2505" height="468" key="GridCell.Tab.1.bottom" timestamp="1587751220298">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="470" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587219236954" />
-    <state width="2505" height="470" key="GridCell.Tab.1.center" timestamp="1587219236954">
+    <state width="2505" height="468" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587751220298" />
+    <state width="2505" height="468" key="GridCell.Tab.1.center" timestamp="1587751220298">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="470" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587219236954" />
-    <state width="2505" height="470" key="GridCell.Tab.1.left" timestamp="1587219236953">
+    <state width="2505" height="468" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587751220298" />
+    <state width="2505" height="468" key="GridCell.Tab.1.left" timestamp="1587751220298">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="470" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587219236953" />
-    <state width="2505" height="470" key="GridCell.Tab.1.right" timestamp="1587219236954">
+    <state width="2505" height="468" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587751220298" />
+    <state width="2505" height="468" key="GridCell.Tab.1.right" timestamp="1587751220298">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="470" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587219236954" />
+    <state width="2505" height="468" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587751220298" />
     <state x="1088" y="344" key="RollbackChangesDialog" timestamp="1586544649978">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -435,10 +471,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="711" y="436" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587198558679" />
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1587367058380">
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1587735689711">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587367058380" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587735689711" />
     <state x="1282" y="492" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587196376193">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

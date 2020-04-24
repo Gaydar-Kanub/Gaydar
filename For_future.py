@@ -11,4 +11,5 @@ def divide(num):
             n += 1
     return res
 
-print(divide(10080))
+# print(divide(10080))
+# print(divide(29))
