@@ -201,33 +201,30 @@
 
 
 # print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+# print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+# print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 
-import datetime as dt
+# 1 - декоратор и 2 функции
+# import datetime as dt
+import time
+time.t
 
-
-def my_dec(e):
+def my_dec(func):
     def wrapper(*ar, **kw):
-        res = e(*ar, **kw)
-        return res
-    return wrapper
-
-
-def my_dec_cashe(e):
-    def wrapper(*ar, **kw):
-        if ar in wrapper.cashe:
-            res = wrapper.cashe[ar]
+        if ar in wrapper.cash:
+            res = wrapper.cash[ar]
         else:
-            res = e(*ar, **kw)
-            wrapper.cashe.append(res)
+            res = func(*ar, **kw)
+            wrapper.cash.append(res)
         return res
-    wrapper.cashe = []
+    wrapper.cash = []
     return wrapper
 
 
-def timer(e):
+def timer(func):
     def wrapper(*arg, **kwa):
         start = dt.datetime.now()
-        res = e(*arg, **kwa)
+        res = func(*arg, **kwa)
         print(dt.datetime.now() - start)
         return res
     return wrapper
@@ -246,20 +243,27 @@ def fibonachi_naiv(n):
     return b
 
 
-
-@my_dec_cashe
+@my_dec
 @timer
 def fibonachi_cashe(n):
     a, b = 0, 1
-    if n == 0 or n == 1:
-        b = n
-    else:
-        while n - 2 > 0:
-            a, b = b, a + b
-            n -= 1
-    return b
+    res = []
+    if n > 0:
+        res.append(a)
+    if n > 1:
+        res.append(b)
+    while n - 2 > 0:
+        a, b = b, a + b
+        n -= 1
+        res.append(b)
+    return res
 
 
 print(fibonachi_naiv(80))
 print(fibonachi_cashe(80))
-print(fibonachi_cashe.cashe)
+# print(fibonachi_cashe.cashe)
+
+
+# print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+# print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+# print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
