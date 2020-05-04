@@ -3,8 +3,29 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="" />
+    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="Checkio - O'Reilly - How deep">
+      <change afterPath="$PROJECT_DIR$/Checkio/O'Reilly/Reverse_ascending.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +46,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="e6e4d671-d5f8-4724-a26e-eac28a3c6979" />
-  </component>
   <component name="ProjectId" id="1ZUhJMNTUdmy0yfZA1GCumUcAZj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,12 +53,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Practice2">
-    <configuration name="222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Reverse_ascending">
+    <configuration name="Chunking_by" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Checkio/O'Reilly" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/222.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checkio/O'Reilly/Chunking_by.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="For_future" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Except_zero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Checkio/O'Reilly" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_future.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checkio/O'Reilly/Except_zero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PY110 _Practice1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Frequency_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Checkio/O'Reilly" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/PY110 _Practice1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checkio/O'Reilly/Frequency_sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="How_deep" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Checkio/O'Reilly" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/Practice2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checkio/O'Reilly/How_deep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Reverse_ascending" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Checkio/O'Reilly" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/for_tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checkio/O'Reilly/Reverse_ascending.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Practice2" />
-        <item itemvalue="Python.for_tests" />
-        <item itemvalue="Python.222" />
-        <item itemvalue="Python.For_future" />
-        <item itemvalue="Python.PY110 _Practice1" />
+        <item itemvalue="Python.Reverse_ascending" />
+        <item itemvalue="Python.How_deep" />
+        <item itemvalue="Python.Frequency_sorting" />
+        <item itemvalue="Python.Except_zero" />
+        <item itemvalue="Python.Chunking_by" />
       </list>
     </recent_temporary>
   </component>
@@ -362,18 +381,72 @@
       <option name="project" value="LOCAL" />
       <updated>1588018675514</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Checkio - O'Reilly - Replace Last">
+      <created>1588492798282</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588492798282</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Checkio - O'Reilly - In majority">
+      <created>1588493684536</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588493684536</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Checkio - O'Reilly - Remove all after">
+      <created>1588494680257</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1588494680257</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Checkio - O'Reilly - Chunking by">
+      <created>1588495380239</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1588495380239</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Checkio - O'Reilly - Except zero">
+      <created>1588521040877</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1588521040877</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Checkio - O'Reilly - Frequency sorting">
+      <created>1588522772072</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1588522772072</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Checkio - O'Reilly - How deep">
+      <created>1588523749001</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1588523749001</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Навел порядок&#10;Сделал домашние задания из Практики 4 (слайд 2 и 3)" />
-    <MESSAGE value="Homework 04_practice4" />
-    <MESSAGE value="Rename directories (delete spaces)" />
-    <MESSAGE value="Homework 05_practice4.py" />
-    <MESSAGE value="Homework 06_practice4.py" />
-    <MESSAGE value="Сheckio - O'Reilly - striped words" />
-    <MESSAGE value="Сheckio - O'Reilly - Remove_accents.py" />
     <MESSAGE value="Сheckio - O'Reilly - Goes_after.py" />
     <MESSAGE value="Сheckio - O'Reilly - Sum_by_type.py" />
     <MESSAGE value="Сheckio - O'Reilly - Follow_Instructions.py" />
@@ -392,13 +465,24 @@
     <MESSAGE value="PY110 - Practice1" />
     <MESSAGE value="PY110 - Homework to practice 2" />
     <MESSAGE value="PY110 - Practice 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="PY110 - Practice 2" />
+    <MESSAGE value="Checkio - O'Reilly - Replace Last" />
+    <MESSAGE value="Checkio - O'Reilly - In majority" />
+    <MESSAGE value="Checkio - O'Reilly - Remove all after" />
+    <MESSAGE value="Checkio - O'Reilly - Chunking by" />
+    <MESSAGE value="Checkio - O'Reilly - Except zero" />
+    <MESSAGE value="Checkio - O'Reilly - Frequency sorting" />
+    <MESSAGE value="Checkio - O'Reilly - How deep" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkio - O'Reilly - How deep" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="772" y="275" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1585754695612" />
+    <state x="484" y="8" key="#Is_majority" timestamp="1588493353982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="8" key="#Is_majority/0.0.1536.824@0.0.1536.824" timestamp="1588493353982" />
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586877988841">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -411,45 +495,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1185" y="322" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585752822343" />
-    <state width="2505" height="374" key="GridCell.Tab.0.bottom" timestamp="1588018679849">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="478" height="696" key="GridCell.Tab.0.bottom" timestamp="1588524681086">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="478" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588524681086" />
     <state width="2505" height="374" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679849" />
-    <state width="2505" height="374" key="GridCell.Tab.0.center" timestamp="1588018679849">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="478" height="696" key="GridCell.Tab.0.center" timestamp="1588524681086">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="478" height="696" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588524681086" />
     <state width="2505" height="374" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679849" />
-    <state width="2505" height="374" key="GridCell.Tab.0.left" timestamp="1588018679848">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="478" height="696" key="GridCell.Tab.0.left" timestamp="1588524681086">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="478" height="696" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588524681086" />
     <state width="2505" height="374" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679848" />
-    <state width="2505" height="374" key="GridCell.Tab.0.right" timestamp="1588018679849">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="478" height="696" key="GridCell.Tab.0.right" timestamp="1588524681086">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="478" height="696" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588524681086" />
     <state width="2505" height="374" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679849" />
-    <state width="2505" height="374" key="GridCell.Tab.1.bottom" timestamp="1588018679850">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom" timestamp="1588523448472">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588523448472" />
     <state width="2505" height="374" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
-    <state width="2505" height="374" key="GridCell.Tab.1.center" timestamp="1588018679850">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1364" height="242" key="GridCell.Tab.1.center" timestamp="1588523448472">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588523448472" />
     <state width="2505" height="374" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
-    <state width="2505" height="374" key="GridCell.Tab.1.left" timestamp="1588018679850">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1364" height="242" key="GridCell.Tab.1.left" timestamp="1588523448472">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588523448472" />
     <state width="2505" height="374" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
-    <state width="2505" height="374" key="GridCell.Tab.1.right" timestamp="1588018679850">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1364" height="242" key="GridCell.Tab.1.right" timestamp="1588523448472">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588523448472" />
     <state width="2505" height="374" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
     <state x="1088" y="344" key="RollbackChangesDialog" timestamp="1586544649978">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1088" y="344" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586544649977" />
-    <state x="711" y="436" key="SettingsEditor" timestamp="1587198558679">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="427" y="115" key="SettingsEditor" timestamp="1588493499549">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="427" y="115" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588493499549" />
     <state x="711" y="436" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587198558679" />
     <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1587735689711">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -471,6 +564,21 @@
           <url>file://$PROJECT_DIR$/PY110/Practice2.py</url>
           <line>263</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Checkio/O'Reilly/Except_zero.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Checkio/O'Reilly/How_deep.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Checkio/O'Reilly/Reverse_ascending.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
