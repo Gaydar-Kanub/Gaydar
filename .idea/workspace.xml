@@ -4,9 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY110/Lection3.py" afterDir="false" />
+    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="PY110 - Lection 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY110/Lection3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PY110/Lection3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +40,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Lection3">
+  <component name="RunManager" selected="Python.Practice3">
     <configuration name="222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,27 +56,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/222.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="For_future" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For_future.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,6 +106,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Practice3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/Practice3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="for_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,13 +148,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.222" />
+      <item itemvalue="Python.Lection3" />
+      <item itemvalue="Python.Practice2" />
+      <item itemvalue="Python.Practice3" />
+      <item itemvalue="Python.for_tests" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Practice3" />
         <item itemvalue="Python.Lection3" />
         <item itemvalue="Python.Practice2" />
         <item itemvalue="Python.for_tests" />
         <item itemvalue="Python.222" />
-        <item itemvalue="Python.For_future" />
       </list>
     </recent_temporary>
   </component>
@@ -365,12 +372,25 @@
       <option name="project" value="LOCAL" />
       <updated>1588018675514</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="PY110 - Lection 3">
+      <created>1588097458550</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588097458550</updated>
+    </task>
+    <task id="LOCAL-00030" summary="PY110 - Lection 3">
+      <created>1588097860775</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588097860775</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Навел порядок&#10;Сделал домашние задания из Практики 4 (слайд 2 и 3)" />
     <MESSAGE value="Homework 04_practice4" />
     <MESSAGE value="Rename directories (delete spaces)" />
     <MESSAGE value="Homework 05_practice4.py" />
@@ -395,41 +415,58 @@
     <MESSAGE value="PY110 - Practice1" />
     <MESSAGE value="PY110 - Homework to practice 2" />
     <MESSAGE value="PY110 - Practice 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="PY110 - Practice 2" />
+    <MESSAGE value="PY110 - Lection 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="PY110 - Lection 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="772" y="275" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1585754695612" />
+    <state x="809" y="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588267693597">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="809" y="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588267693597" />
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586877988841">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586877988841" />
-    <state x="865" y="225" key="CommitChangelistDialog2" timestamp="1588018674740">
+    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2" timestamp="1588097860089">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="865" y="225" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1588018674740" />
-    <state x="1185" y="322" key="FileChooserDialogImpl" timestamp="1585752822343">
+    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1588097860089" />
+    <state x="0" y="244" key="DiffContextDialog" timestamp="1588097697513">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1185" y="322" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1585752822343" />
-    <state width="983" height="449" key="GridCell.Tab.0.bottom" timestamp="1588097043712">
+    <state x="0" y="244" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588097697513" />
+    <state x="1204" y="745" width="895" height="602" key="EnvironmentVariablesDialog" timestamp="1588267692683">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="983" height="449" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588097043712" />
-    <state width="983" height="449" key="GridCell.Tab.0.center" timestamp="1588097043712">
+    <state x="1204" y="745" width="895" height="602" key="EnvironmentVariablesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588267692683" />
+    <state x="1185" y="322" key="FileChooserDialogImpl" timestamp="1588097999486">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="983" height="449" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588097043712" />
-    <state width="983" height="449" key="GridCell.Tab.0.left" timestamp="1588097043711">
+    <state x="1185" y="322" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1588097999486" />
+    <state x="1657" y="930" key="Github.ShareDialog" timestamp="1588097882096">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="983" height="449" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588097043711" />
-    <state width="983" height="449" key="GridCell.Tab.0.right" timestamp="1588097043712">
+    <state x="1657" y="930" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588097882096" />
+    <state width="625" height="439" key="GridCell.Tab.0.bottom" timestamp="1588274106331">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="983" height="449" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588097043712" />
+    <state width="625" height="439" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
+    <state width="625" height="439" key="GridCell.Tab.0.center" timestamp="1588274106331">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="625" height="439" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
+    <state width="625" height="439" key="GridCell.Tab.0.left" timestamp="1588274106331">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="625" height="439" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
+    <state width="625" height="439" key="GridCell.Tab.0.right" timestamp="1588274106331">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="625" height="439" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
     <state width="2505" height="374" key="GridCell.Tab.1.bottom" timestamp="1588018679850">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -450,10 +487,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1088" y="344" key="RollbackChangesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586544649977" />
-    <state x="1167" y="517" key="SettingsEditor" timestamp="1588097115253">
+    <state x="1167" y="517" key="SettingsEditor" timestamp="1588271893535">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1167" y="517" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588097115253" />
+    <state x="1167" y="517" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1588271893535" />
     <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1587735689711">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
