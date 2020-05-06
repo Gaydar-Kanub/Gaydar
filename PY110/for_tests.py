@@ -101,3 +101,11 @@ print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # say_whee()
 # say_whee()
 # say_whee()
+
+
+# Создание словаря произвольной длины, с произвольным текстом - для практики
+# import random
+#
+# my_dict = {i: ''.join(chr(random.randint(ord('a'), ord('z'))) for _ in range(random.randint(1, 10))) for i in range(9)}
+# print(my_dict)
+
