@@ -4,7 +4,13 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="" />
+    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PY110/Practice4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1111111.py" beforeDir="false" afterPath="$PROJECT_DIR$/1111111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/222.py" beforeDir="false" afterPath="$PROJECT_DIR$/222.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,28 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Practice3">
-    <configuration name="222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/222.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sapper">
     <configuration name="Lection3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Practice4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +121,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/for_tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/Practice4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sapper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,19 +152,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.222" />
-      <item itemvalue="Python.for_tests" />
       <item itemvalue="Python.Lection3" />
       <item itemvalue="Python.Practice2" />
       <item itemvalue="Python.Practice3" />
+      <item itemvalue="Python.Practice4" />
+      <item itemvalue="Python.sapper" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sapper" />
+        <item itemvalue="Python.Practice4" />
         <item itemvalue="Python.Practice3" />
         <item itemvalue="Python.Lection3" />
         <item itemvalue="Python.Practice2" />
-        <item itemvalue="Python.for_tests" />
-        <item itemvalue="Python.222" />
       </list>
     </recent_temporary>
   </component>
@@ -469,38 +475,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1657" y="930" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588097882096" />
-    <state width="625" height="439" key="GridCell.Tab.0.bottom" timestamp="1588274106331">
+    <state width="955" height="629" key="GridCell.Tab.0.bottom" timestamp="1589053955942">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="625" height="439" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
-    <state width="625" height="439" key="GridCell.Tab.0.center" timestamp="1588274106331">
+    <state width="955" height="629" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
+    <state width="955" height="629" key="GridCell.Tab.0.center" timestamp="1589053955942">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="625" height="439" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
-    <state width="625" height="439" key="GridCell.Tab.0.left" timestamp="1588274106331">
+    <state width="955" height="629" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
+    <state width="955" height="629" key="GridCell.Tab.0.left" timestamp="1589053955942">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="625" height="439" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
-    <state width="625" height="439" key="GridCell.Tab.0.right" timestamp="1588274106331">
+    <state width="955" height="629" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
+    <state width="955" height="629" key="GridCell.Tab.0.right" timestamp="1589053955942">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="625" height="439" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588274106331" />
-    <state width="2505" height="374" key="GridCell.Tab.1.bottom" timestamp="1588018679850">
+    <state width="955" height="629" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
+    <state width="2505" height="577" key="GridCell.Tab.1.bottom" timestamp="1589053952172">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="374" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
-    <state width="2505" height="374" key="GridCell.Tab.1.center" timestamp="1588018679850">
+    <state width="2505" height="577" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
+    <state width="2505" height="577" key="GridCell.Tab.1.center" timestamp="1589053952172">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="374" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
-    <state width="2505" height="374" key="GridCell.Tab.1.left" timestamp="1588018679850">
+    <state width="2505" height="577" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
+    <state width="2505" height="577" key="GridCell.Tab.1.left" timestamp="1589053952172">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="374" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
-    <state width="2505" height="374" key="GridCell.Tab.1.right" timestamp="1588018679850">
+    <state width="2505" height="577" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
+    <state width="2505" height="577" key="GridCell.Tab.1.right" timestamp="1589053952172">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="374" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588018679850" />
+    <state width="2505" height="577" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
     <state x="1088" y="344" key="RollbackChangesDialog" timestamp="1586544649978">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
