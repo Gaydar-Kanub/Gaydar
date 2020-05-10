@@ -4,12 +4,10 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PY110/Practice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sapper.py" afterDir="false" />
+    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="PY110 - Practice 3">
+      <change afterPath="$PROJECT_DIR$/PY110/tic_tac_toe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1111111.py" beforeDir="false" afterPath="$PROJECT_DIR$/1111111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/222.py" beforeDir="false" afterPath="$PROJECT_DIR$/222.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PY110/JUPYTER/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PY110/JUPYTER/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.sapper">
+  <component name="RunManager" selected="Python.tic_tac_toe">
     <configuration name="Lection3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,27 +57,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/Lection3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Practice2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/Practice2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,20 +128,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PY110" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PY110/tic_tac_toe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Lection3" />
-      <item itemvalue="Python.Practice2" />
       <item itemvalue="Python.Practice3" />
       <item itemvalue="Python.Practice4" />
       <item itemvalue="Python.sapper" />
+      <item itemvalue="Python.tic_tac_toe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tic_tac_toe" />
         <item itemvalue="Python.sapper" />
         <item itemvalue="Python.Practice4" />
         <item itemvalue="Python.Practice3" />
         <item itemvalue="Python.Lection3" />
-        <item itemvalue="Python.Practice2" />
       </list>
     </recent_temporary>
   </component>
@@ -410,12 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588684729406</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Игра сапер. Без отлова некорректного ввода данных.&#10;Сделано для отрабоки навыков работы с массивами.">
+      <created>1589054133149</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1589054133149</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Rename directories (delete spaces)" />
     <MESSAGE value="Homework 05_practice4.py" />
     <MESSAGE value="Homework 06_practice4.py" />
     <MESSAGE value="Сheckio - O'Reilly - striped words" />
@@ -440,7 +444,8 @@
     <MESSAGE value="PY110 - Practice 2" />
     <MESSAGE value="PY110 - Lection 3" />
     <MESSAGE value="PY110 - Practice 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="PY110 - Practice 3" />
+    <MESSAGE value="Игра сапер. Без отлова некорректного ввода данных.&#10;Сделано для отрабоки навыков работы с массивами." />
+    <option name="LAST_COMMIT_MESSAGE" value="Игра сапер. Без отлова некорректного ввода данных.&#10;Сделано для отрабоки навыков работы с массивами." />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
@@ -455,10 +460,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586877988841" />
-    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2" timestamp="1588684728791">
+    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2" timestamp="1589054132342">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1588684728791" />
+    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1589054132342" />
     <state x="0" y="244" key="DiffContextDialog" timestamp="1588097697513">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -475,38 +480,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1657" y="930" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588097882096" />
-    <state width="955" height="629" key="GridCell.Tab.0.bottom" timestamp="1589053955942">
+    <state width="955" height="855" key="GridCell.Tab.0.bottom" timestamp="1589145182638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="955" height="629" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
-    <state width="955" height="629" key="GridCell.Tab.0.center" timestamp="1589053955942">
+    <state width="955" height="855" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1589145182638" />
+    <state width="955" height="855" key="GridCell.Tab.0.center" timestamp="1589145182638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="955" height="629" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
-    <state width="955" height="629" key="GridCell.Tab.0.left" timestamp="1589053955942">
+    <state width="955" height="855" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1589145182638" />
+    <state width="955" height="855" key="GridCell.Tab.0.left" timestamp="1589145182638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="955" height="629" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
-    <state width="955" height="629" key="GridCell.Tab.0.right" timestamp="1589053955942">
+    <state width="955" height="855" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1589145182638" />
+    <state width="955" height="855" key="GridCell.Tab.0.right" timestamp="1589145182638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="955" height="629" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589053955942" />
-    <state width="2505" height="577" key="GridCell.Tab.1.bottom" timestamp="1589053952172">
+    <state width="955" height="855" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589145182638" />
+    <state width="2505" height="351" key="GridCell.Tab.1.bottom" timestamp="1589144233124">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="577" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
-    <state width="2505" height="577" key="GridCell.Tab.1.center" timestamp="1589053952172">
+    <state width="2505" height="351" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1589144233124" />
+    <state width="2505" height="351" key="GridCell.Tab.1.center" timestamp="1589144233124">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="577" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
-    <state width="2505" height="577" key="GridCell.Tab.1.left" timestamp="1589053952172">
+    <state width="2505" height="351" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1589144233124" />
+    <state width="2505" height="351" key="GridCell.Tab.1.left" timestamp="1589144233124">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="577" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
-    <state width="2505" height="577" key="GridCell.Tab.1.right" timestamp="1589053952172">
+    <state width="2505" height="351" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1589144233124" />
+    <state width="2505" height="351" key="GridCell.Tab.1.right" timestamp="1589144233124">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2505" height="577" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589053952172" />
+    <state width="2505" height="351" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589144233124" />
     <state x="1088" y="344" key="RollbackChangesDialog" timestamp="1586544649978">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
