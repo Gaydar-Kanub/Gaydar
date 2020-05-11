@@ -1,3 +1,4 @@
+# Гайдаренко Евгений Григорьевич
 def salute():
     print("\nПриветствую в игре 'крестики-нолики'.\n"
           "Введите количество игроков (1 или 2):")
@@ -13,30 +14,6 @@ def salute():
         except:
             print('Некорректный ввод данных. Попробуйте снова.')
     return x
-
-
-# def get_field(x):
-#     history = [' ' for _ in range(x**2)]
-#     history[1] = 'X'
-#     print(history)
-#     j = 0
-#     z = 1
-#     print('Игровое поле', '\t' * 2, 'Подсказка номеров поля')
-#     for i in range(x*2+1):
-#         if i % 2 == 0:
-#             print('-' * (x * 2 + 1), '\t' * 3, '-' * (x * 2 + 1))
-#         else:
-#             line = '|'
-#             for _ in range(x):
-#                 line += history[j] + '|'
-#                 j += 1
-#             line += '\t' * 4 + ' ' + '|'
-#             for _ in range(x):
-#                 line += str(z) + '|'
-#                 z += 1
-#             # for z in range(x):
-#             #
-#             print(line)
 
 
 def game(x):
@@ -82,6 +59,7 @@ def game(x):
                     z += 1
                 line = line[:-1] + '\t' * 5 + f'{z-2}|{z-1}|{z}'
             print(line)
+        print('')
     return f'{player.capitalize()}, победил!!!'
 
 
@@ -124,7 +102,7 @@ def comp_go(history):
         else:
             for comb in lose_combs:
                 for i in comb:
-                    if history[i - 1] == '0':
+                    if history[i - 1] != ' ':
                         break
                     else:
                         c = i
@@ -132,7 +110,7 @@ def comp_go(history):
                     cell = c
                     break
     if cell == 0:
-        cell = history.index(' ')
+        cell = history.index(' ') + 1
     print(f'Компьютер ставит O на {cell} клетку')
     history[cell - 1] = 'O'
     return history
