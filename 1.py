@@ -28,9 +28,3 @@
 #     r = next(w)
 # print(r)
 
-a = 'HghghggGHgnNg.OJHb.Lkhk.lohHGk'
-b = ''
-c = True
-for i in range(len(a)):
-    if c:
-        v =

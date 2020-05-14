@@ -45,11 +45,6 @@ from functools import reduce
 # print(all_max)
 
 
-# for_fibonachi = [i for i in range(10)]                # Это так, для себя
-# print(reduce(lambda x, y: x + y, for_fibonachi))
-
-
-
 def pipeline_each(x, funcs):
     for func in funcs:
         x = func(x)
@@ -61,7 +56,7 @@ a = it.count(0.1, 0.01)
 # a = 0.5
 for _ in range(5):
     b = next(a)
-    print(math.tan(math.sin(math.cos(b)))     )         # for check
+    print(math.tan(math.sin(math.cos(b))))         # for check
     print('======================')
     print(reduce(lambda x, y: y(x), [b] + f))
 # print(pipeline_each(next(a), f))
