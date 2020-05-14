@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="" />
+    <list default="true" id="3a119cf7-15fd-4c5b-9217-2047099bd875" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PY110/tic_tac_toe_2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -444,12 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589466678840</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="tic_tac_toe.py - Base comment about teacher comments">
+      <created>1589467272016</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1589467272016</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Сheckio - O'Reilly - Remove_accents.py" />
     <MESSAGE value="Сheckio - O'Reilly - Goes_after.py" />
     <MESSAGE value="Сheckio - O'Reilly - Sum_by_type.py" />
     <MESSAGE value="Сheckio - O'Reilly - Follow_Instructions.py" />
@@ -474,7 +482,8 @@
     <MESSAGE value="PY110 - tic_tac_toe.py" />
     <MESSAGE value="Подготовка к зачету (прорешивание практик 1 и 2)" />
     <MESSAGE value="tic_tac_toe.py - Teacher edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="tic_tac_toe.py - Teacher edits" />
+    <MESSAGE value="tic_tac_toe.py - Base comment about teacher comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="tic_tac_toe.py - Base comment about teacher comments" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="275" key="#Inspections" timestamp="1585754695612">
@@ -489,10 +498,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="951" y="485" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586877988841" />
-    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2" timestamp="1589466678212">
+    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2" timestamp="1589467271379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1589466678212" />
+    <state x="1204" y="148" width="856" height="1252" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1589467271379" />
     <state x="0" y="244" key="DiffContextDialog" timestamp="1588097697513">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
