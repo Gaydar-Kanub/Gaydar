@@ -1,23 +1,26 @@
 # Гайдаренко Евгений Григорьевич
+
+ALL_WIN_COMBS = [(1, 2, 3), (4, 5, 6), (7, 8, 9), (1, 4, 7), (2, 5, 8), (3, 6, 9), (1, 5, 9), (3, 5, 7)]
+
+
 def salute():
     print("\nПриветствую в игре 'крестики-нолики'.\n"
           "Введите количество игроков (1 или 2):")
-    a = False
-    while not a:
+    while True:
         x = input()
         try:
             x = int(x)
             if 1 <= x <= 2:
-                a = True
+                break
             else:
                 print("Количество игроков может быть только: 1 или 2. Попробуйте снова.")
-        except:
+        except ValueError:
             print('Некорректный ввод данных. Попробуйте снова.')
     return x
 
 
 def game(x):
-    game = True
+    play = True
     turn = False
     history = [' ' for _ in range(9)]
     b = False
@@ -27,10 +30,10 @@ def game(x):
         players = ['Игрок 1', 'компьютер']
     print(
         f'{players[0]} играет - Х, а {players[1]} играет - О')  # Сюда можно добавить выбор символа для каждого (посчитал это перегрузкой для терпения игрока - слишком много выбора плохо)
-    while game:
+    while play:
         try:
             history.index(' ')
-        except:
+        except ValueError:
             return 'Ничья. Но вы не растраивайтесь - ИИ не удалось одержать вверх, а это уже победа!!!'
         turn = not (turn and True)
         if turn:
@@ -45,7 +48,7 @@ def game(x):
                 history = comp_go(history)
             else:
                 history = go(history, player, sym)
-            game = check_win(history, sym)
+            play = check_win(history, sym)
         else:
             b = True
         print('Игровое поле', '\t' * 2, 'Подсказка номеров поля')
@@ -57,18 +60,17 @@ def game(x):
                 for _ in range(3):
                     line += history[z] + '|'
                     z += 1
-                line = line[:-1] + '\t' * 5 + f'{z-2}|{z-1}|{z}'
+                line = line[:-1] + '\t' * 5 + f'{z - 2}|{z - 1}|{z}'
             print(line)
         print('')
     return f'{player.capitalize()}, победил!!!'
 
 
 def comp_go(history):
-    all_win_combs = [(1, 2, 3), (4, 5, 6), (7, 8, 9), (1, 4, 7), (2, 5, 8), (3, 6, 9), (1, 5, 9), (3, 5, 7)]
     win_combs = []
     lose_combs = []
     cell = 0
-    for comb in all_win_combs:
+    for comb in ALL_WIN_COMBS:
         for i in comb:
             if history[i - 1] == 'X':
                 lose_combs.append(comb)
@@ -109,7 +111,7 @@ def comp_go(history):
                 else:
                     cell = c
                     break
-    if cell == 0:
+    if not cell:
         cell = history.index(' ') + 1
     print(f'Компьютер ставит O на {cell} клетку')
     history[cell - 1] = 'O'
@@ -117,8 +119,7 @@ def comp_go(history):
 
 
 def go(history, player, sym):
-    a = False
-    while not a:
+    while True:
         print(f'{player}, на какое поле вы хотите поставить {sym}?')
         x = input()
         try:
@@ -128,17 +129,16 @@ def go(history, player, sym):
             elif history[x - 1] != ' ':
                 print('Это поле уже занято. Попробуйте другое.')
             else:
-                a = True
-        except:
+                break
+        except ValueError:
             print('Некорректный ввод данных. Попробуйте снова.')
     history[x - 1] = sym
     return history
 
 
 def check_win(history, sym):
-    all_win_combs = [(1, 2, 3), (4, 5, 6), (7, 8, 9), (1, 4, 7), (2, 5, 8), (3, 6, 9), (1, 5, 9), (3, 5, 7)]
     game_continue = True
-    for comb in all_win_combs:
+    for comb in ALL_WIN_COMBS:
         for i in comb:
             if history[i - 1] != sym:
                 break
