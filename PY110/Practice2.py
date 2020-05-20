@@ -78,7 +78,7 @@
 #
 # print('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
 #
-#
+
 # def cor(start=3):
 #       num = start
 #       while True:
@@ -90,10 +90,11 @@
 #
 #
 # f = cor(4)
+# print(next(f))
 # next(f)
 # print(next(f))
 # print(f.send(30))
-# print(f.send(None))
+# # print(f.send(None))
 # print(next(f))
 #
 #
@@ -206,61 +207,61 @@
 
 # 1 - декоратор и 2 функции
 # import datetime as dt
-import time
-time.t
-
-def my_dec(func):
-    def wrapper(*ar, **kw):
-        if ar in wrapper.cash:
-            res = wrapper.cash[ar]
-        else:
-            res = func(*ar, **kw)
-            wrapper.cash.append(res)
-        return res
-    wrapper.cash = []
-    return wrapper
-
-
-def timer(func):
-    def wrapper(*arg, **kwa):
-        start = dt.datetime.now()
-        res = func(*arg, **kwa)
-        print(dt.datetime.now() - start)
-        return res
-    return wrapper
-
-
-@timer
-@my_dec
-def fibonachi_naiv(n):
-    a, b = 0, 1
-    if n == 0 or n == 1:
-        b = n
-    else:
-        while n - 2 > 0:
-            a, b = b, a + b
-            n -= 1
-    return b
-
-
-@my_dec
-@timer
-def fibonachi_cashe(n):
-    a, b = 0, 1
-    res = []
-    if n > 0:
-        res.append(a)
-    if n > 1:
-        res.append(b)
-    while n - 2 > 0:
-        a, b = b, a + b
-        n -= 1
-        res.append(b)
-    return res
-
-
-print(fibonachi_naiv(80))
-print(fibonachi_cashe(80))
+# import time
+# time.t
+#
+# def my_dec(func):
+#     def wrapper(*ar, **kw):
+#         if ar in wrapper.cash:
+#             res = wrapper.cash[ar]
+#         else:
+#             res = func(*ar, **kw)
+#             wrapper.cash.append(res)
+#         return res
+#     wrapper.cash = []
+#     return wrapper
+#
+#
+# def timer(func):
+#     def wrapper(*arg, **kwa):
+#         start = dt.datetime.now()
+#         res = func(*arg, **kwa)
+#         print(dt.datetime.now() - start)
+#         return res
+#     return wrapper
+#
+#
+# @timer
+# @my_dec
+# def fibonachi_naiv(n):
+#     a, b = 0, 1
+#     if n == 0 or n == 1:
+#         b = n
+#     else:
+#         while n - 2 > 0:
+#             a, b = b, a + b
+#             n -= 1
+#     return b
+#
+#
+# @my_dec
+# @timer
+# def fibonachi_cashe(n):
+#     a, b = 0, 1
+#     res = []
+#     if n > 0:
+#         res.append(a)
+#     if n > 1:
+#         res.append(b)
+#     while n - 2 > 0:
+#         a, b = b, a + b
+#         n -= 1
+#         res.append(b)
+#     return res
+#
+#
+# print(fibonachi_naiv(80))
+# print(fibonachi_cashe(80))
 # print(fibonachi_cashe.cashe)
 
 
