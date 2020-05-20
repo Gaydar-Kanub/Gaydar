@@ -1,0 +1,1 @@
+{"city": "city1", "street": "street2", "house": "13", "room": "118"}
