@@ -18,6 +18,9 @@ def workout(sessions: List[int], additional: int) -> int:
             base_num = (deltas[0] // (n + 1) + 1)
             deltas = deltas[1:] + [base_num] * n + [deltas[0] - base_num * n]
         additional -= n
+        if additional == 1:
+            break
+        n = 0
     deltas.sort(reverse=1)
     return deltas[0]
 
